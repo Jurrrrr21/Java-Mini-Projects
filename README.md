@@ -5,3 +5,4 @@ All projects were built to practice algorithms, data structures, and software de
 
 ## Projects
 - [Tic Tac Toe vs AI] (tictactoe-vs-ai/) -- An AI using Minimax + Alpha-Beta Pruning. Basically impossible to beat. (Built on final year of University when learning AI)
+- [BST Demo] (BSTs) -- Demonstration of BSTs in **data structures**
